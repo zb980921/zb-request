@@ -2,7 +2,7 @@
   "name": "zb-request",
   "type": "module",
   "version": "0.0.0",
-  "description": "A network request tool based on Axios secondary encapsulation, supporting TypeScript.",
+  "description": "A request tool based on Axios secondary encapsulation, supporting TypeScript.",
   "author": "ZhuBei <zbneversettle@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/zb980921/zb-request#readme",
